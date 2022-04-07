@@ -127,7 +127,7 @@ body {
 }
 
 .bulb-glow-yellow {
-	background-image: url('bulb_yellow.png');
+	background-image: url('../image/bulb_yellow.png');
 	-webkit-animation: bulb_glow_yellow linear 5s;
 	-moz-animation: bulb_glow_yellow linear 5s;
 	-o-animation: bulb_glow_yellow linear 5s;
@@ -137,72 +137,72 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png' );
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 
 .bulb-glow-red {
-	background-image: url('bulb_red.png');
+	background-image: url('../image/bulb_red.png');
 	-webkit-animation: bulb_glow_red linear 5s;
 	-moz-animation: bulb_glow_red linear 5s;
 	-o-animation: bulb_glow_red linear 5s;
@@ -212,71 +212,71 @@ body {
 
 @-webkit-keyframes bulb_glow_red {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_red {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_red {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_red.png');
+		background-image: url('../imaeg/bulb_red.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_red {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_red {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 		opacity: 1;
 	}
 }
 .bulb-glow-blue {
-	background-image: url('bulb_blue.png');
+	background-image: url('../image/bulb_blue.png');
 	-webkit-animation: bulb_glow_blue linear 5s;
 	-moz-animation: bulb_glow_blue linear 5s;
 	-o-animation: bulb_glow_blue linear 5s;
@@ -286,72 +286,72 @@ body {
 
 @-webkit-keyframes bulb_glow_blue {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_blue {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_blue {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_blue {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_blue {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 		opacity: 1;
 	}
 }
 
 .bulb-glow-green {
-	background-image: url('bulb_green.png');
+	background-image: url('../image/bulb_green.png');
 	-webkit-animation: bulb_glow_green linear 5s;
 	-moz-animation: bulb_glow_green linear 5s;
 	-o-animation: bulb_glow_green linear 5s;
@@ -361,72 +361,72 @@ body {
 
 @-webkit-keyframes bulb_glow_green {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_green {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_green {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_green {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_green {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 		opacity: 1;
 	}
 }
 
 .bulb-glow-pink {
-	background-image: url('bulb_pink.png');
+	background-image: url('../image/bulb_pink.png');
 	-webkit-animation: bulb_glow_pink linear 5s;
 	-moz-animation: bulb_glow_pink linear 5s;
 	-o-animation: bulb_glow_pink linear 5s;
@@ -436,72 +436,72 @@ body {
 
 @-webkit-keyframes bulb_glow_pink {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_pink {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_pink {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_pink {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_pink {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 		opacity: 1;
 	}
 }
 
 .bulb-glow-orange {
-	background-image: url('bulb_orange.png');
+	background-image: url('../image/bulb_orange.png');
 	-webkit-animation: bulb_glow_orange linear 5s;
 	-moz-animation: bulb_glow_orange linear 5s;
 	-o-animation: bulb_glow_orange linear 5s;
@@ -511,66 +511,66 @@ body {
 
 @-webkit-keyframes bulb_glow_orange {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_orange {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_orange {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_orange {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_orange {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 		opacity: 1;
 	}
 }
@@ -578,7 +578,7 @@ body {
 
 /*after music*/
 .bulb-glow-yellow-after {
-	background-image: url('bulb_yellow.png');
+	background-image: url('../image/bulb_yellow.png');
 	-webkit-animation: bulb_glow_yellow_after linear 1s infinite;
 	-moz-animation: bulb_glow_yellow_after linear 1s infinite;
 	-o-animation: bulb_glow_yellow_after linear 1s infinite;
@@ -588,62 +588,62 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_yellow_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_yellow_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_yellow_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_yellow_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('../image/bulb_yellow.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 
 .bulb-glow-red-after {
-	background-image: url('bulb_red.png');
+	background-image: url('../image/bulb_red.png');
 	-webkit-animation: bulb_glow_red_after linear 1.2s infinite;
 	-moz-animation: bulb_glow_red_after linear 1.2s infinite;
 	-o-animation: bulb_glow_red_after linear 1.2s infinite;
@@ -653,62 +653,62 @@ body {
 
 @-webkit-keyframes bulb_glow_red_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_red_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_red_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_red_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_red_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_red.png');
+		background-image: url('../image/bulb_red.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 
 .bulb-glow-blue-after {
-	background-image: url('bulb_blue.png');
+	background-image: url('../image/bulb_blue.png');
 	-webkit-animation: bulb_glow_blue_after linear 1.4s infinite;
 	-moz-animation: bulb_glow_blue_after linear 1.4s infinite;
 	-o-animation: bulb_glow_blue_after linear 1.4s infinite;
@@ -718,61 +718,61 @@ body {
 
 @-webkit-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('../image/bulb_blue.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 .bulb-glow-green-after {
-	background-image: url('bulb_green.png');
+	background-image: url('../image/bulb_green.png');
 	-webkit-animation: bulb_glow_green_after linear 1.8s infinite;
 	-moz-animation: bulb_glow_green_after linear 1.8s infinite;
 	-o-animation: bulb_glow_green_after linear 1.8s infinite;
@@ -782,62 +782,62 @@ body {
 
 @-webkit-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 
 @-moz-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_green.png');
+		background-image: url('../image/bulb_green.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 .bulb-glow-pink-after {
-	background-image: url('bulb_pink.png');
+	background-image: url('../image/bulb_pink.png');
 	-webkit-animation: bulb_glow_pink_after linear 2s infinite;
 	-moz-animation: bulb_glow_pink_after linear 2s infinite;
 	-o-animation: bulb_glow_pink_after linear 2s infinite;
@@ -847,61 +847,61 @@ body {
 
 @-webkit-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_pink.png');
+		background-image: url('../image/bulb_pink.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 .bulb-glow-orange-after {
-	background-image: url('bulb_orange.png');
+	background-image: url('../image/bulb_orange.png');
 	-webkit-animation: bulb_glow_orange_after linear 2.2s infinite;
 	-moz-animation: bulb_glow_orange_after linear 2.2s infinite;
 	-o-animation: bulb_glow_orange_after linear 2.2s infinite;
@@ -911,57 +911,57 @@ body {
 
 @-webkit-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 @keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 	50%{
-		background-image: url('bulb_orange.png');
+		background-image: url('../image/bulb_orange.png');
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('../image/bulb.png');
 	}
 }
 audio {
@@ -1094,25 +1094,25 @@ audio {
 	display: none;
 }
 #b1,#b11 {
-	background-image: url('b1.png');
+	background-image: url('../image/b1.png');
 }
 #b2,#b22 {
-	background-image: url('b2.png');
+	background-image: url('../image/b2.png');
 }
 #b3,#b33 {
-	background-image: url('b3.png');
+	background-image: url('../image/b3.png');
 }
 #b4,#b44{
-	background-image: url('b4.png');
+	background-image: url('../image/b4.png');
 }
 #b5,#b55{
-	background-image: url('b5.png');
+	background-image: url('../image/b5.png');
 }
 #b6,#b66{
-	background-image: url('b6.png');
+	background-image: url('../image/b6.png');
 }
 #b7,#b77{
-	background-image: url('b7.png');
+	background-image: url('../image/b7.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
