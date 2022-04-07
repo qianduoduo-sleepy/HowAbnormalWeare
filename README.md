@@ -1,34 +1,10 @@
-Happy Birthday
+## You must konw
+It's a project that we study from https://github.com/ayusharma/birthday
 
-A Happy Birthday animation design in CSS3, HTML5.
+## Author
+From pllj & qianduoduo-sleepy
 
-URL: http://ayusharma.github.io/birthday/
-
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
-
-# Setup
-
-## If you have python installed:
-```
-cd Birthday
-```
-
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
-```
-
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
-
+## Target
+It's a special gift for our WWG, in memory of those years we've met.
+if you can, just laugh heartily at this moment.
+We all here, and, we will always be here...
