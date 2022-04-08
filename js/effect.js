@@ -29,7 +29,7 @@ $('document').ready(function(){
 		});
 	});
 
-	var audio;
+	var audio, audio1, audio2, audio3;
 	$('#play').click(function(){
 		audio = $('.song')[0];
         audio.play();
@@ -47,9 +47,27 @@ $('document').ready(function(){
 	});
 
 	$('#normal').click(function () {
-        var audio1 = $('.song1')[0];
+        audio1 = $('.song1')[0];
         audio.pause();
         audio1.play();
+        $(this).fadeOut('slow').delay(500).promise().done(function () {
+            $('#gl').fadeIn('slow');
+        });
+    });
+
+	$('#gl').click(function () {
+        audio2 = $('.song2')[0];
+        audio1.pause();
+        audio2.play();
+        $(this).fadeOut('slow').delay(500).promise().done(function () {
+            $('#hf').fadeIn('slow');
+        });
+    });
+
+	$('#hf').click(function () {
+        audio3 = $('.song3')[0];
+        audio2.pause();
+        audio3.play();
         $(this).fadeOut('slow').delay(500).promise().done(function () {
             $('#bannar_coming').fadeIn('slow');
         });
